@@ -1,4 +1,4 @@
-![Fly Performance Cover](./cover.png)
+
 
 # fly-performance-analysis
 
